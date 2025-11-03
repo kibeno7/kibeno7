@@ -7,13 +7,13 @@
 <div align="left">
 <p>
 
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/alucard017)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/kibeno7)
  &nbsp;
-[![Open Source Love](https://img.shields.io/badge/Open%20Source-%F0%9F%A4%8D-Green)](https://github.com/alucard017)
+[![Open Source Love](https://img.shields.io/badge/Open%20Source-%F0%9F%A4%8D-Green)](https://github.com/kibeno7)
  &nbsp;
 <img alt="Visitors" src="https://komarev.com/ghpvc/?username=alucard017&style=flat&labelColor=black&logo=github&label=Profile+Views&color=29bf12"/>
  &nbsp;
-<img alt="Last Commit" src="https://img.shields.io/github/last-commit/alucard017/alucard017?logo=markdown&label=Last+Update&color=29bf12&style=flat">
+<img alt="Last Commit" src="https://img.shields.io/github/last-commit/kibeno7/kibeno7?logo=markdown&label=Last+Update&color=29bf12&style=flat">
 </p>
 
  ### Experience includes (but is not limited to):
@@ -25,7 +25,7 @@
 - 🚀 One day I will see myself in Hell.!
 - ⚡ Fun fact 1: I love to be in the garden and build a house
 - ⚡ Fun fact 2: **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
-💬 Ask me about **anything [here](mailto:apurba.mca.nitjsr@gmail.com)**
+💬 Ask me about **anything [here](mailto:apurbasundar2002@gmail.com)**
 
  </div>
 <br />
@@ -46,9 +46,9 @@
 <h2 align="center">⚡ Contribution Stats ⚡</h2>
 <div align="center">
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alucard017&theme=gotham)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=alucard017&theme=gotham)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=alucard017&theme=gotham&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kibeno7&theme=gotham)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kibeno7&theme=gotham)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kibeno7&theme=gotham&utcOffset=8)
 <br/><br/>
 <!-- [![GitHub Streak](https://streak-stats.demolab.com?user=alucard017&theme=dark)](https://git.io/streak-stats) -->
 
@@ -58,16 +58,16 @@
 <h2 align="center">⚡ Language Stats ⚡</h2>
 <div align=center>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alucard017&theme=gotham)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alucard017&theme=gotham)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kibeno7&theme=gotham)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kibeno7&theme=gotham)
 <br/><br/>
 
 <hr/>
 
 <h2 align="center">🐍 Contribution Snake 🐍</h2>
 
-![GitHub Snake Light](https://raw.githubusercontent.com/alucard017/alucard017/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-![GitHub Snake dark](https://raw.githubusercontent.com/alucard017/alucard017/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![GitHub Snake Light](https://raw.githubusercontent.com/kibeno7/kibeno7/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![GitHub Snake dark](https://raw.githubusercontent.com/kibeno7/kibeno7/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 ### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha)
