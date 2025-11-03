@@ -2,7 +2,7 @@
 <img align="centre" alt="Coding" src = "https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 
 <h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> I'm Apurba from 🇮🇳</h1>
-<h3 align="center">A computer science enthusiast who loves building cool and fun products.</h3> <img align="right" src="https://i.giphy.com/media/LmNwrBhejkK9EFP504/200w.webp" alt="Programmation" width="200" />
+<h3 align="center">A computer science geek diving deep into the CS world.</h3> <img align="right" src="https://i.giphy.com/media/LmNwrBhejkK9EFP504/200w.webp" alt="Programmation" width="200" />
 
 <div align="left">
 <p>
